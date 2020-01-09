@@ -20,7 +20,7 @@ You should need to complete the following steps.
 
 1. Accept the invitation you received to work on this assignment, and then go to the 
    repository that is created for you at github.com
-   
+
 2. Click on the link there to edit the Readme.md file and manually add the third line.
 
 3. Commit your change, and don't forgot to add a commit message.
