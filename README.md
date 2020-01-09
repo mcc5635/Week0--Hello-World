@@ -15,5 +15,10 @@ You should need to complete the following steps.
 1. Accept the intivation to this assignment, and then go to the repository that is created for you at github.com
 2. Click on the link to edit this Readme.Rmd file and manually add the third line.
 3. Commit your change, and don't forgot to add a commit message.
+At this point your changes should be visible to me.
+
 Now, for the fourth line:
-4. Go to Rstudio and click on File / New Project
+4. Go to Rstudio and click on File / New Project, then choose the option "Version Control" followed by "Git"
+5. At this point you will be prompted to enter the url for your repository for this problem on github. 
+It will lool something like ""
+6. 
