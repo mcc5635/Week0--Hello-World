@@ -27,7 +27,7 @@ You should need to complete the following steps.
 
    At this point your changes should be visible to me. See if you can work out how
    to send me a message saying that you have completed this step. Hand gestures will
-   work in the classroomm but I am imagining something that will work in a more
+   work in the classroom, but I am imagining something that will work in a more
    general setting.
 
 Now, for the fourth line:
@@ -47,9 +47,9 @@ Now, for the fourth line:
 8. You now need to "commit" (save a permanent record of) the changes to your local machine,
    and then "push" the changes back to github.com. First look for and click the Git
    tab in your Rstudio Gui. (For me it is at the top of the window to top right of
-   the gui.) Then check the box for the files you want to commit (here, just the 
+   the Gui.) Then check the box for the files you want to commit (here, just the 
    `README.md` will do) and hit the "commit" button. In the process of doing this it
-   wil prompt you to enter a commit message. This is a reminder of what you changed in
+   will prompt you to enter a commit message. This is a reminder of what you changed in
    this edit. So something like "added 4th line of nursery rhyme" will do here. You
    should get into the habit of adding an explanation to every commit.
    
