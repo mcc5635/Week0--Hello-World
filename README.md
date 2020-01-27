@@ -65,7 +65,7 @@ Now, for the fourth line:
    
    That should work too :).
    
-9. Now you are ready to push the changes back to github.  Look for the commit button and
+9. Now you are ready to push the changes back to github.  Look for the push button and
    hit it. If you don't get an error message your new version will now replace the
    one that was on Github, so go to your repository on Github and check that you see
    it there. (You will need to refresh that window if you already have it open in your
