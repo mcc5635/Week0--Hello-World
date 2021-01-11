@@ -1,17 +1,23 @@
 # Hello-World
+
+
+We will be using Github to handle code submission, review, etc. in PM520.
 A way of testing that cloning/committing/pushing is working for you
 
 Here are the first two lines of a popular English nursery rhyme:
 
-1. Mary had a little lamb.
-2. It's fleece was white as snow.
+1. Ring-a-ring o' roses,
+2. A pocket full of posies,
 
 ...[next 2 lines go here]...
 
 3. 
 4. 
 
-Your job is to Google the next two lines of this nursery rhyme.
+Your job is to Google the next two lines of this nursery rhyme. (You may find some 
+interesting chit-chat aobut the origina of the nursery rhyme - the story I was told at 
+school in the 1970s now seems to have been de-bunked).
+
 Then add the third line by directly editing this file on Github.
 Then add the fourth line by cloning this repository using Rstudio, updating the markdown
 file (Readme.md) and then pushing it back onto Github.
@@ -36,9 +42,9 @@ Now, for the fourth line:
    followed by "Git"
    
 5. At this point you will be prompted to enter the url for your repository for this problem on github. 
-   It will look something like this "https://github.com/PM520-Spring-2020/hello-world-username".
+   It will look something like this "https://github.com/PM520-Spring2021/Week0--Hello-World-username".
    
-   At this point you will be prompted to enter your github usernamer and password.
+   At this point you will be prompted to enter your github username and password.
    
 6. You should now have a copy of the repository on your local machine, in the form of an Rproject.
 
@@ -71,4 +77,9 @@ Now, for the fourth line:
    it there. (You will need to refresh that window if you already have it open in your
    browser.)
    
-Your work is done.
+10. Your work is dnow one. In order to let me know that is ready for review create an "Issue". 
+   You can find this option using the "Issue" tab near the top of the window, just under the 
+   repository name. Add a message to the effect that you have completed the task and then include
+   a reference to my Github id by typing "@pmarjora" anywhere in the message. I will then be
+   sent a notification that you are finished and ready for review. you can also include my
+   Id in commit messages when you upload code during future classes, which will have the same effect.
