@@ -16,7 +16,7 @@ Here are the first two lines of a popular English nursery rhyme:
 4. 
 
 Your job is to Google the next two lines of this nursery rhyme. (You may find some 
-interesting chit-chat aobut the origina of the nursery rhyme - the story I was told at 
+interesting chit-chat about the origina of the nursery rhyme - the story I was told at 
 school in the 1970s now seems to have been de-bunked).
 
 Then add the third line by directly editing this file on Github.
@@ -30,10 +30,10 @@ You should need to complete the following steps.
 
 2. Click on the link there to edit the Readme.md file and manually add the third line.
 
-3. Commit your change, and don't forgot to add a commit message.
+3. Commit your change, and don't forget to add a commit message (a brief summary of what tyou have done).
 
    At this point your changes should be visible to me. See if you can work out how
-   to send me a message saying that you have completed this step. Hand gestures will
+   to send me a message saying that you have completed this step. Hand gestures would
    work in the classroom, but I am imagining something that will work in a more
    general setting.
 
@@ -78,9 +78,9 @@ Now, for the fourth line:
    it there. (You will need to refresh that window if you already have it open in your
    browser.)
    
-10. Your work is dnow one. In order to let me know that is ready for review create an "Issue". 
+10. Your work is now one. In order to let me know that is ready for review create an "Issue". 
    You can find this option using the "Issue" tab near the top of the window, just under the 
    repository name. Add a message to the effect that you have completed the task and then include
    a reference to my Github id by typing "@pmarjora" anywhere in the message. I will then be
-   sent a notification that you are finished and ready for review. you can also include my
-   Id in commit messages when you upload code during future classes, which will have the same effect.
+   sent a notification that you are finished and ready for review. You can also just include my
+   ID in push/commit messages when you upload code during future classes, which will have the same effect.
