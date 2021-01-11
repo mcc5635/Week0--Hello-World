@@ -2,7 +2,8 @@
 
 
 We will be using Github to handle code submission, review, etc. in PM520.
-A way of testing that cloning/committing/pushing is working for you
+This small exercise provides a way of testing that cloning/committing/pushing 
+is working for you
 
 Here are the first two lines of a popular English nursery rhyme:
 
