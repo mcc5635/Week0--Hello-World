@@ -16,8 +16,8 @@ Here are the first two lines of a popular English nursery rhyme:
 4. 
 
 Your job is to Google the next two lines of this nursery rhyme. (You may find some 
-interesting chit-chat about the origina of the nursery rhyme - the story I was told at 
-school in the 1970s now seems to have been de-bunked).
+interesting chit-chat about the origins of the nursery rhyme - the story I was told at 
+school in the 1970s now seems to have been de-bunked.)
 
 Then add the third line by directly editing this file on Github.
 Then add the fourth line by cloning this repository using Rstudio, updating the markdown
